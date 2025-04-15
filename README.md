@@ -1,4 +1,4 @@
-# AgentPro: Multi-Agent PHP to Next.js Migration Framework
+# AgentPro: PHP to Next.js Migration Multi-Agent System
 
 ## 🎯 Project Overview
 
@@ -27,11 +27,10 @@ Launch the app instantly from your browser:
 
 ```mermaid
 graph TD
-    A[PHP Code Input] --> B[AgentPro Controller]
-    B --> C[PHP Analyzer Agent]
-    B --> D[Audit Agent]
-    B --> E[Security Agent]
-    C --> F[Migration Output]
+    A[PHP Code Input] --> B[PHP Analyzer Agent]
+    A --> D[Audit Agent]
+    A --> E[Security Agent]
+    B --> F[Migration Output]
     D --> F
     E --> F
     F --> G[Test Generator Agent]
