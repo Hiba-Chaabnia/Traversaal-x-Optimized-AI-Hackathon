@@ -1,28 +1,29 @@
 # AgentPro: Multi-Agent PHP to Next.js Migration Framework
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3.8%2B-blue" alt="Python 3.8+">
-  <img src="https://img.shields.io/badge/Next.js-14.0%2B-black" alt="Next.js 14+">
-  <img src="https://img.shields.io/badge/License-Apache%202.0-blue" alt="License: Apache 2.0">
-</p>
-
-[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)]([https://huggingface.co/spaces/malekbouzayani/hackathon-traversaal-ai](https://huggingface.co/spaces/malekbouzayani/hackathon-traversaal-ai))
-
-
 ## 🎯 Project Overview
 
-AgentPro is an innovative multi-agent system that automates the migration of PHP applications to Next.js, leveraging specialized AI agents for different aspects of the migration process. Each agent is powered by Mistral's Codestral model and focuses on specific tasks like code conversion, security analysis, and documentation generation.
+**This project** is a multi-agent AI system built to **automate the migration of legacy PHP applications to modern Next.js 14 architectures**, leveraging specialized AI agents for different aspects of the migration process. Each agent is powered by Mistral's Codestral model and focuses on specific tasks like code conversion, security analysis, and documentation generation.
 
-### Key Features
+## 📽️ Demo
+https://github.com/user-attachments/assets/aeeb91e4-134e-4a14-bbc4-2523ba236c56
 
-- 🤖 **Multi-Agent Architecture**: Specialized agents working in harmony
-- 🔄 **Automated Migration**: PHP to Next.js conversion with best practices
-- 🔍 **Code Analysis**: Security audits and quality checks
-- ✅ **Test Generation**: Automated test suite creation
-- 📚 **Documentation**: Automatic README and documentation generation
-- 🛠️ **Integration**: Seamless file structure creation and deployment
+## 🔥 Key Features
 
-## 🏗️ Architecture
+- 🤖 **Multi-Agent Framework**: Modular agents specialized in code transformation, analysis, and generation
+- 🔄 **Automatic Migration**: Converts PHP to production-ready Next.js 14 structure
+- 🔐 **Security Insights**: AI-driven vulnerability scans
+- 🧪 **Test Generator**: Auto-creates unit tests for frontend/backend code
+- 📚 **Documentation Builder**: Generates complete `README.md` files
+- 🗃️ **Integration Agent**: Reconstructs final file structure for deployment
+
+## 🌐 Try It Live on Hugging Face
+
+Launch the app instantly from your browser:
+
+👉 [**Try Our Multi-agent System Now**](https://huggingface.co/spaces/malekbouzayani/hackathon-traversaal-ai)
+
+
+## 🏗️ System Architecture
 
 ```mermaid
 graph TD
@@ -41,55 +42,53 @@ graph TD
     I --> J
 ```
 
-### Agent Specializations
+## 👨‍👩‍👧‍👦 Agent Specializations
 
-1. **PHP Analyzer Agent**: Converts PHP code to Next.js
-2. **Audit Agent**: Analyzes code structure and patterns
-3. **Security Agent**: Identifies vulnerabilities
-4. **Test Generator**: Creates unit tests
-5. **Doc Writer**: Generates documentation
-6. **Integration Agent**: Handles file organization and deployment
+| Agent | Role |
+|-------|------|
+| **PHP Analyzer** | Converts PHP code into modern Next.js 14 |
+| **Audit Agent** | Extracts structure, features, DB schema |
+| **Security Agent** | Finds vulnerabilities in PHP/JS code |
+| **Test Generator** | Generates unit tests |
+| **Doc Writer** | Writes full `README.md` documentation |
+| **Integration Agent** | Builds final file structure from AI-generated code |
 
-## 🚀 Quick Start
+## ⚡ Quick Start
 
-### Prerequisites
+### 1. Clone the Repository
 
-- Python 3.8+
-- Node.js 16+
-- MongoDB (for the migrated Next.js application)
-
-### Installation
-
-1. Clone the repository:
 ```bash
-git clone https://github.com/your-username/AgentPro.git
-cd AgentPro
+git clone https://github.com/Hiba-Chaabnia/Traversaal-x-Optimized-AI-Hackathon.git
+cd Traversaal-x-Optimized-AI-Hackathon
 ```
 
-2. Install Python dependencies:
+### 2. Install Dependencies
+
 ```bash
 pip install -r requirements.txt
 ```
 
-3. Set up environment variables:
+### 3. Configure Environment Variables
+
 ```bash
 cp .env.example .env
-# Edit .env with your API keys
+# Then edit .env with your API keys
 ```
 
-### Usage
+### 4. Launch the Migration UI
 
-1. Start the migration interface:
 ```bash
 streamlit run app.py
 ```
 
-2. Upload your PHP project (ZIP or single file)
-3. Click "Start Migration"
-4. Monitor the progress through the UI
-5. Download the migrated Next.js project
+### 5. Migrate Your PHP Project
 
-## 📋 Project Structure
+- Upload a PHP project (ZIP or individual file)
+- Click "Start Migration"
+- Monitor real-time progress
+- Download the fully converted Next.js 14 project
+
+## 🗂️ Project Structure
 
 ```
 agentpro/
@@ -105,30 +104,37 @@ agentpro/
 └── requirements.txt                 # Dependencies
 ```
 
-## 🔧 Technical Approach
+## 🛠️ Technical Workflow
 
-Our system uses a pipeline of specialized agents, each powered by Mistral's Codestral model, to handle different aspects of the migration process:
+Our system uses a **phased pipeline**, orchestrated by intelligent agents to handle different aspects of the migration process:
 
-1. **Analysis Phase**
-   - Code structure analysis
-   - Security vulnerability scanning
-   - Feature identification
 
-2. **Migration Phase**
-   - PHP to Next.js conversion
-   - API route creation
-   - Database integration
+1. **🔍 Analysis Phase**
+   - Parse PHP codebase
+   - Extract app structure and features
+   - Perform static security analysis
 
-3. **Enhancement Phase**
-   - Test suite generation
-   - Documentation creation
-   - File organization
+2. **🔄 Migration Phase**
+   - Transform PHP to Next.js 14
+   - Generate API routes
+   - Integrate database models
 
-4. **Output Phase**
-   - Project structure creation
-   - Environment setup
-   - Deployment preparation
+3. **✨ Enhancement Phase**
+   - Auto-generate unit tests
+   - Create documentation
+   - Assemble folder structure
+
+4. **📦 Output Phase**
+   - Package project with complete structure
+   - Configure environment files
+   - Ready for deployment
+
 
 ## 📝 License
 
 This project is licensed under the Apache 2.0 License - see the LICENSE file for details.
+
+## 🤝 Contributors
+
+- [Hiba Chaabnia](https://github.com/Hiba-Chaabnia)
+- [Malek Bouzayani](https://github.com/bouzayani-malek)
