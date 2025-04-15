@@ -6,6 +6,9 @@
   <img src="https://img.shields.io/badge/License-Apache%202.0-blue" alt="License: Apache 2.0">
 </p>
 
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)]([https://huggingface.co/spaces/malekbouzayani/hackathon-traversaal-ai](https://huggingface.co/spaces/malekbouzayani/hackathon-traversaal-ai))
+
+
 ## 🎯 Project Overview
 
 AgentPro is an innovative multi-agent system that automates the migration of PHP applications to Next.js, leveraging specialized AI agents for different aspects of the migration process. Each agent is powered by Mistral's Codestral model and focuses on specific tasks like code conversion, security analysis, and documentation generation.
