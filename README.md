@@ -1,8 +1,9 @@
-# AgentPro: PHP to Next.js Migration Multi-Agent System
+# PHP to Next.js Migration Multi-Agent System (Developed Using AgentPro Framework)
 
 ## 🎯 Project Overview
 
-**This project** is a multi-agent AI system built to **automate the migration of legacy PHP applications to modern Next.js 14 architectures**, leveraging specialized AI agents for different aspects of the migration process. Each agent is powered by Mistral's Codestral model and focuses on specific tasks like code conversion, security analysis, and documentation generation.
+**This project** is a multi-agent AI system, built entirely on the AgentPro Framework, enabling **modular, autonomous agents to collaborate in migrating legacy PHP applications to modern Next.js 14 stacks.** Each agent is powered by Mistral's Codestral model and focuses on specific tasks like code conversion, security analysis, and documentation generation.
+
 
 ## 🔥 Key Features
 
