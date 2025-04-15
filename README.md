@@ -4,9 +4,6 @@
 
 **This project** is a multi-agent AI system built to **automate the migration of legacy PHP applications to modern Next.js 14 architectures**, leveraging specialized AI agents for different aspects of the migration process. Each agent is powered by Mistral's Codestral model and focuses on specific tasks like code conversion, security analysis, and documentation generation.
 
-## 📽️ Demo
-https://github.com/user-attachments/assets/aeeb91e4-134e-4a14-bbc4-2523ba236c56
-
 ## 🔥 Key Features
 
 - 🤖 **Multi-Agent Framework**: Modular agents specialized in code transformation, analysis, and generation
@@ -15,6 +12,9 @@ https://github.com/user-attachments/assets/aeeb91e4-134e-4a14-bbc4-2523ba236c56
 - 🧪 **Test Generator**: Auto-creates unit tests for frontend/backend code
 - 📚 **Documentation Builder**: Generates complete `README.md` files
 - 🗃️ **Integration Agent**: Reconstructs final file structure for deployment
+
+## 📽️ Demo  
+[Watch the demo on YouTube](https://youtu.be/4XC9NA6-KNI)
 
 ## 🌐 Try It Live on Hugging Face
 
