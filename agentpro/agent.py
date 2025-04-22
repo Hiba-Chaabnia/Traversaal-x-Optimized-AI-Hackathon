@@ -17,7 +17,7 @@ class AgentPro:
                 print(f"Error with tool {tool.name}: {e}")
                 continue
 
-        return "Aucun outil n'a pu traiter la requête."
+        return "No tool could process the request."
 
     def list_tools(self):
         return [tool.get_tool_description() for tool in self.tools]
