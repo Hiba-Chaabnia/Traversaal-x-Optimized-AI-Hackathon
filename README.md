@@ -17,6 +17,8 @@
 ## 📽️ Demo  
 [Watch the demo on YouTube](https://youtu.be/4XC9NA6-KNI)
 
+Want a guided walkthrough of the code? [This video is for you](https://youtu.be/libPqCGAQoE)
+
 ## 🌐 Try It Live on Hugging Face
 
 Launch the app instantly from your browser:
