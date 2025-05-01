@@ -17,7 +17,7 @@
 ## 📽️ Demo  
 [Watch the demo on YouTube](https://youtu.be/4XC9NA6-KNI)
 
-Want a guided walkthrough of the code? [This video is for you](https://youtu.be/libPqCGAQoE)
+For a guided walkthrough of the code, watch [this video](https://youtu.be/libPqCGAQoE)
 
 ## 🌐 Try It Live on Hugging Face
 
