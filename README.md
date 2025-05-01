@@ -134,9 +134,20 @@ Our system uses a **phased pipeline**, orchestrated by intelligent agents to han
 
 ## 📝 License
 
-This project is licensed under the Apache 2.0 License - see the LICENSE file for details.
+This project is licensed under the [Apache 2.0 License](./LICENSE.txt) – see the LICENSE file for details. 
 
-## 🤝 Contributors
 
-- [Hiba Chaabnia](https://github.com/Hiba-Chaabnia)
-- [Malek Bouzayani](https://github.com/bouzayani-malek)
+## 📬 Contact  
+
+For questions or feedback, contact me directly via:
+
+<p align="left">
+  <a href="https://linkedin.com/in/hiba-chaabnia" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
+  </a>
+  
+  <a href="mailto:hiba.chaabnia.pro@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" />
+  </a>
+</p>
+
