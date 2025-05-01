@@ -22,3 +22,5 @@ class ExtractFilesFromMarkdownTool(Tool):
         """
 
         return MistralClient.query(prompt)
+
+
