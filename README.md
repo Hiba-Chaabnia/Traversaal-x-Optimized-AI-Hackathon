@@ -134,7 +134,7 @@ Our system uses a **phased pipeline**, orchestrated by intelligent agents to han
 
 ## 📝 License
 
-This project is licensed under the [Apache 2.0 License](./LICENSE.txt) – see the LICENSE file for details. 
+This project is licensed under the [Apache 2.0 License](./LICENSE) – see the LICENSE file for details. 
 
 
 ## 📬 Contact  
